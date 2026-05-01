@@ -72,10 +72,3 @@
 - Committee Head – **Event Management & Drafting (Joshiana 2024)**
 
 ---
-
-## 📊 GitHub Stats
-
-![Nireeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
